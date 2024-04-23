@@ -92,5 +92,3 @@ ___
 ⁷ These mods also work on 1.17.x , despite having only 1.16 and 1.18 releases in curseforge, no workarounds needed. Install them like any other mods and your fabric loader won't complain about missing dependencies
 ___
 ⁸ Some of the mods that have Magnesium/Rubidium as an incompatibility, might work if you use [Calcium](https://www.curseforge.com/minecraft/mc-mods/calcium)
-
-[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
